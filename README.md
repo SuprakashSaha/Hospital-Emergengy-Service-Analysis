@@ -200,7 +200,7 @@ Hospital-Emergency-Service-Analysis/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Hospital-Emergency-Service-Analysis.git
+   git clone https://github.com/SuprakashSaha/Hospital-Emergency-Service-Analysis.git
    ```
 2. Open `DASHBOARD/hospital emergncy analysis_cleaned.xlsx` in Microsoft Excel and use the **year** and **month** slicers to explore the dashboard.
 3. Read the full analysis in `Report/Hospital_ER_Performance_Report.pdf`.
@@ -213,7 +213,5 @@ Hospital-Emergency-Service-Analysis/
 **Suprakash**
 Aspiring Data Analyst | Kolkata, India
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/your-linkedin)
 
 ⭐ If you found this project useful, consider giving the repo a star.
